@@ -1,0 +1,53 @@
+.all{
+    background-color: #F8F0E5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.all h1{
+    color: ;
+}
+.titik{
+    margin-top: 80px;
+}
+.judul{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.kucing-bg{
+    background: #EADBC8;
+    padding: 20px;
+    border-radius: 10px;
+}
+.slide-image img{
+    height: 358px;
+}
+.col a{
+    text-decoration: none;
+}
+.list-cat{
+    background:#EADBC8;
+    padding-bottom: 20px;
+}
+.list-cat img{
+    height: 170px;
+}
+.jenis-kucing{
+    transition: transform .2s;
+}
+.jenis-kucing:hover{
+    transform: scale(1.05);
+}
+.informasi-kucing{
+    width: 100%;
+}
+.informasi-kucing p{
+    text-align: justify;
+}
+.warna {
+    background: #EADBC8
+}
+.warnav {
+    background: #765827
+}
